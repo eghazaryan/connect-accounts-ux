@@ -1,0 +1,6 @@
+.root {
+  border-radius: var(--mantine-radius-lg);
+  box-shadow: 0 rem(7px) rem(29px) 0 rgba(100, 100, 111, 0.2);
+}
+
+

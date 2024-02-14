@@ -1,0 +1,8 @@
+.buttonLogin span {
+  font-size: var(--mantine-font-size-lg);
+  weight: 700;
+}
+
+.divider span {
+  font-size: var(--mantine-font-size-md);
+}

@@ -1,0 +1,28 @@
+.step {
+  flex-direction: column;
+}
+
+.stepBody {
+  margin-left: 0;
+}
+
+.stepContent {
+  margin-top: var(--mantine-spacing-lg);
+}
+
+.chip label {
+  border: 1px solid green;
+  padding: var(--mantine-spacing-xs);
+
+  &:not[data-disabled] {
+    border: 1px solid green;
+  }
+}
+
+.divider span {
+  font-size: var(--mantine-font-size-md);
+}
+
+.textWrapper {
+  display: flex;
+}
